@@ -1,0 +1,10 @@
+export const SERVER_READY = 'SERVER_READY'
+export const CHECKING_SERVER = 'CHECKING_SERVER'
+export const SERVER_FAILED = 'SERVER_FAILED'
+/*==================================================*/
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
+export const USER_LOADED = 'USER_LOADED'
+export const AUTH_LOADING = 'AUTH_LOADING'
+export const AUTH_FAILED = 'AUTH_FAILED'
+export const LOGOUT = 'LOGOUT'
